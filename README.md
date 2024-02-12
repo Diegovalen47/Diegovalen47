@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Valentín Osorio</h1>
 <h3 align="center">Frontend Developer</h3>
 
-- 🔭 I’m currently working on [Unergy](https://unergy.io/)
-
 - 🌱 I’m currently learning **Nuxt 3**
 
 - 📫 How to reach me **osoriovalentin5@gmail.com**
