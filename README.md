@@ -1,4 +1,4 @@
-<h1 align="center">👋 I'm Valentín Osorio, a Software Engineer delivering product solutions across backend systems, data pipelines and frontend applications.</h1>
+<h1 align="center">☕️ I'm Valentín Osorio, a Software Engineer delivering product solutions across backend systems, data pipelines and frontend applications.</h1>
 
 ###
 
